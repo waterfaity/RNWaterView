@@ -1,6 +1,9 @@
 
 # react-native-waterview
 
+
+git:https://github.com/waterfaity/RNWaterView
+
 ## Getting started
 
 `$ npm install react-native-waterview --save`
