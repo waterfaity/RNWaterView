@@ -1,6 +1,6 @@
+import {requireNativeComponent} from 'react-native';
 
-import { NativeModules } from 'react-native';
 
-const { RNWaterview } = NativeModules;
+const RNWaterView = requireNativeComponent("RNWaterView")
 
-export default RNWaterview;
+export default RNWaterView;
