@@ -15,11 +15,11 @@ import com.facebook.react.uimanager.annotations.ReactProp;
  * @date: 2021/3/2
  * @info:
  */
-public class BGNativeWaterView extends SimpleViewManager<ImageView> {
+public class RNWaterView extends SimpleViewManager<ImageView> {
     @NonNull
     @Override
     public String getName() {
-        return "RNGlideView";
+        return "RNWaterView";
     }
 
     @NonNull

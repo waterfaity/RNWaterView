@@ -17,6 +17,6 @@ public class RNWaterviewModule extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "RNWaterview";
+    return "RNWaterView";
   }
 }
